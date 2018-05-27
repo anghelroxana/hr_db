@@ -1,0 +1,6 @@
+USE HR
+GO
+
+ALTER TABLE Angajati ADD IdManager INT NULL;
+
+ALTER TABLE Angajati ADD Activ BIT NULL;
