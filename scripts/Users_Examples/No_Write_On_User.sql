@@ -1,0 +1,1 @@
+INSERT INTO AbilitatiAngajat ([Id_Abilitate], [Id_Angajat]) VALUES (1,10)
